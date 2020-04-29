@@ -1,4 +1,4 @@
-package com.group3.archtraining.component;
+package com.group3.archtraining.task1;
 
 public enum DocumentType {
 

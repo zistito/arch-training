@@ -1,7 +1,7 @@
-package com.group3.archtraining;
+package com.group3.archtraining.task1;
 
-import com.group3.archtraining.component.DocumentManager;
-import com.group3.archtraining.component.DocumentType;
+import com.group3.archtraining.task1.DocumentManager;
+import com.group3.archtraining.task1.DocumentType;
 import org.junit.jupiter.api.Test;
 
 import java.time.YearMonth;

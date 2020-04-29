@@ -1,4 +1,4 @@
-package com.group3.archtraining.component;
+package com.group3.archtraining.task1;
 
 import java.time.YearMonth;
 import java.util.stream.Collectors;
